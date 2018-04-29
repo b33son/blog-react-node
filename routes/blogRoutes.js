@@ -1,3 +1,9 @@
+/*
+ * File: /Users/michaelbeeson/Documents/VSCode/nodejs/blog-react-node/routes/blogRoutes.js
+ */
+
+
+
 const mongoose = require("mongoose");
 const requireLogin = require("../middlewares/requireLogin");
 
